@@ -1,45 +1,282 @@
 <template>
-  <div class="container">
-    <HeaderContainer />
-    <article>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer. Odio ut sem nulla pharetra. Mauris augue neque gravida in fermentum et. Placerat duis ultricies lacus sed. Proin fermentum leo vel orci porta non pulvinar neque laoreet. Maecenas ultricies mi eget mauris. Malesuada fames ac turpis egestas integer eget aliquet nibh. Urna et pharetra pharetra massa massa ultricies. Interdum velit laoreet id donec.</p>
-      <p>Vitae purus faucibus ornare suspendisse sed nisi. Dignissim cras tincidunt lobortis feugiat vivamus at. Lorem mollis aliquam ut porttitor. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Lorem ipsum dolor sit amet. Nibh mauris cursus mattis molestie a iaculis at. Vulputate sapien nec sagittis aliquam malesuada bibendum. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Interdum consectetur libero id faucibus nisl tincidunt eget. Vulputate enim nulla aliquet porttitor lacus luctus. Ornare arcu dui vivamus arcu felis bibendum ut tristique. Dignissim cras tincidunt lobortis feugiat vivamus at. Turpis massa tincidunt dui ut ornare lectus.</p>
-      <p>Lobortis elementum nibh tellus molestie nunc non blandit massa. Elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Semper eget duis at tellus at urna. Sed faucibus turpis in eu. Sit amet volutpat consequat mauris nunc. Libero volutpat sed cras ornare arcu dui. Ut pharetra sit amet aliquam id. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Mi proin sed libero enim sed faucibus turpis in eu. Dui accumsan sit amet nulla facilisi morbi tempus. Leo a diam sollicitudin tempor. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Consectetur libero id faucibus nisl tincidunt. In ornare quam viverra orci sagittis. Morbi tincidunt augue interdum velit euismod in pellentesque massa. Dolor sit amet consectetur adipiscing. Quisque id diam vel quam elementum pulvinar etiam non quam. Pellentesque elit eget gravida cum sociis natoque penatibus. Urna neque viverra justo nec ultrices dui sapien. Sed id semper risus in hendrerit gravida rutrum.</p>
-      <MapContainer />
-      <p>Arcu odio ut sem nulla pharetra diam sit amet. Non sodales neque sodales ut etiam sit amet nisl purus. Elementum nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus ultricies. Vel facilisis volutpat est velit egestas dui. Ut ornare lectus sit amet est placerat in egestas. Scelerisque viverra mauris in aliquam. Tortor posuere ac ut consequat semper viverra nam libero justo. Libero nunc consequat interdum varius sit. Scelerisque felis imperdiet proin fermentum leo vel orci porta. Ut eu sem integer vitae justo eget magna fermentum iaculis. Vitae sapien pellentesque habitant morbi tristique senectus. Elementum tempus egestas sed sed risus. Et sollicitudin ac orci phasellus egestas.</p>
-      <p>In vitae turpis massa sed elementum tempus egestas. Eget mi proin sed libero enim sed faucibus. Nullam non nisi est sit amet facilisis magna etiam tempor. Arcu non sodales neque sodales ut etiam. Magna sit amet purus gravida quis blandit turpis. Ultricies mi quis hendrerit dolor magna eget est lorem. Euismod elementum nisi quis eleifend quam adipiscing vitae. Urna porttitor rhoncus dolor purus. Nec ullamcorper sit amet risus nullam eget. Mi tempus imperdiet nulla malesuada pellentesque elit. Vulputate mi sit amet mauris commodo quis imperdiet massa. Integer feugiat scelerisque varius morbi enim.</p>
-    </article>
-    <ShareContainer />
-    <FooterContainer />
+  <div class="vh-100-ns flex flex-column bg-dark-gray white assistant relative">
+    <MenuHeader
+      class="z-2"
+      :menu-fixed="true"
+    />
+    <!-- Slider main container -->
+    <div
+      ref="container"
+      class="swiper-container h-100 w-100 bg-dark-gray"
+    >
+      <!-- Additional required wrapper -->
+      <div class="swiper-wrapper">
+        <!-- Slides -->
+        <swiper-slide>
+          <article>
+            <h1 class="day-sans f1-ns f2 lh-title">
+              DOIN’ IT FOR THE ‘GRAM
+            </h1>
+            <h3 class="roboto-mono fw3 f3-ns f4 lh-title">
+              Five Social Media Moves That Helped Or Hurt #BlackLivesMatter
+            </h3>
+          </article>
+        </swiper-slide>
+        <swiper-slide>
+          <article class="measure-narrow lh-copy">
+            <p>
+              We use platforms like Instagram, Twitter and TikTok to share trivial details of our day-to-day lives and exchange serious information, resources and calls-to-action about important things going on across the world — from COVID-19 to Black Lives Matter.
+            </p>
+            <p>
+              But whenever hashtags start to trend, things also get complicated. How have efforts like #blackouttuesday impacted the movement for Black lives, in productive or harmful ways? To answer that question, we’re taking a look at five moments produced by social media that shine a light on the best and worst of these platforms as solidarity tools.
+            </p>
+          </article>
+        </swiper-slide>
+        <swiper-slide>
+          <article class="flex flex-column flex-row-ns w-100 justify-center items-center">
+            <main class="flex-grow-0">
+              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
+                SHADOW BANS?
+              </h3>
+              <div class="measure-narrow lh-copy">
+                <p>
+                  Blackout Tuesday, initially dubbed #TheShowMustBePaused by Jamila Thomas and Brianna Agyemang, was a way to memorialize the deaths of George Floyd and Breonna Taylor. The idea, which originated in the music industry, soon caught on, and people across social media started posting black squares as a sign of solidarity.
+                </p>
+                <p>
+                  The only problem? Because people were adding #blacklivesmatter to those posts, social media algorithms boosted images of black squares instead of important information related to Black Lives Matter organizing.
+                </p>
+              </div>
+            </main>
+            <div class="pl3">
+              <object
+                class="db dn-ns"
+                data="images/blackouttuesday_SVG-mobile.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+              <object
+                class="dn db-ns mw-500"
+                data="images/blackouttuesday_SVG-desktop.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+            </div>
+          </article>
+        </swiper-slide>
+        <swiper-slide>
+          <article class="flex flex-column flex-row-ns w-100 justify-center items-center">
+            <main class="flex-grow-0">
+              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
+                WHITEOUT WEDNESDAY
+              </h3>
+              <div class="measure-narrow lh-copy">
+                <p>
+                  In response to Blackout Tuesday, white supremacists decided to create their own event and hashtag, #whiteoutwednesday, to advance their racist agenda. However, K-pop fans soon caught on and decided to flood the hashtag with videos of their favorite stars. Soon, K-pop videos were all you could see when you searched #whiteoutwednesday or #whitelivesmatter.
+                </p>
+                <p>
+                  This isn’t the first time K-pop fans have done this kind of thing. When the Dallas Police department tried using a video app to identify protesters, K-pop fans flooded the app with videos of their top stars and crashed the app.
+                </p>
+              </div>
+            </main>
+            <div class="pl3">
+              <object
+                class="db dn-ns"
+                data="images/whiteoutwednesday_SVG-mobile.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+              <object
+                class="dn db-ns mw-500"
+                data="images/whiteoutwednesday_SVG-desktop.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+            </div>
+          </article>
+        </swiper-slide>
+        <swiper-slide>
+          <article class="flex flex-column flex-row-ns w-100 justify-center items-center">
+            <main class="flex-grow-0">
+              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
+                SHADOW BANS?
+              </h3>
+              <div class="measure-narrow lh-copy">
+                <p>
+                  TikTok has been accused of preventing people from seeing posts with the hashtags #blacklivesmatter and #GeorgeFloyd.
+                </p>
+                <p>
+                  Users reported that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views. TikTok claimed that, rather than a deliberate attempt at blocking the hashtags, the problem was a glitch that also affected terms like #cat and #hello. Still, many users speculate that TikTok purposefully censored the phrases. Glitch or not, the issue has been resolved and when you search for those same terms on TikTok now, you should get a full view count.
+                </p>
+              </div>
+            </main>
+            <div class="pl3">
+              <object
+                class="db dn-ns"
+                data="images/shadowbans_SVG-mobile.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+              <object
+                class="dn db-ns mw-500"
+                data="images/shadowbans_SVG-desktop.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+            </div>
+          </article>
+        </swiper-slide>
+        <swiper-slide>
+          <article class="flex flex-column flex-row-ns w-100 justify-center items-center">
+            <main class="flex-grow-0">
+              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
+                FAKE ACTIVISM
+              </h3>
+              <div class="measure-narrow lh-copy">
+                <p>
+                  While a lot of people have been doing real work to bring about change, some have been using theatrics to get more likes. One example includes a woman who stopped a worker from boarding up stores in Santa Monica to borrow their drill for a photo op. She then walked back into her Mercedes-Benz and drove away.
+                </p>
+                <p>
+                  People soon caught on to what she was doing and called her out.
+                </p>
+              </div>
+            </main>
+            <div class="pl3">
+              <object
+                class="db dn-ns"
+                data="images/tiktok-convos_SVG-desktop-mobile.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+              <object
+                class="dn db-ns mw-500"
+                data="images/fakeactivism_SVG-desktop.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+            </div>
+          </article>
+        </swiper-slide>
+        <swiper-slide>
+          <article class="flex flex-column flex-row-ns w-100 justify-center items-center">
+            <main class="flex-grow-0">
+              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
+                TALKING TIKTOK
+              </h3>
+              <div class="measure-narrow lh-copy">
+                <p>
+                  In attempts at solidarity, some non-Black teenagers are recording tough conversations (and their reactions) with their parents about the death of George Floyd and the importance of Black Lives Matter, and then posting them on TikTok. One of the most viral of these was posted by Izabella, a 15-year-old girl in Louisiana, upset by her family’s response. While she wasn’t able to have the talk she wanted, she found support from others online.
+                </p>
+                <p>
+                  If you see yourself as an ally to Black communities and you’re considering posting about a conversation where you’ve called out your parents, keep an eye out for the tendency to make this moment all about yourself and try not to get caught up in wanting tons of "credit" for the necessary work you’re doing.
+                </p>
+              </div>
+            </main>
+            <div class="pl3">
+              <object
+                class="db dn-ns"
+                data="images/tiktok-convos_SVG-mobile.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+              <object
+                class="dn db-ns mw-500"
+                data="images/tiktok-convos_SVG-desktop.svg"
+                type="image/svg+xml"
+              >
+                <img src="yourfallback.jpg">
+              </object>
+            </div>
+          </article>
+        </swiper-slide>
+        <swiper-slide>
+          <article>
+            <div class="measure lh-copy">
+              <p>
+                We use platforms like Instagram, Twitter and TikTok to share trivial details of our day-to-day lives and exchange serious information, resources and calls-to-action about important things going on across the world — from COVID-19 to Black Lives Matter.
+              </p>
+              <p>
+                But whenever hashtags start to trend, things also get complicated. How have efforts like #blackouttuesday impacted the movement for Black lives, in productive or harmful ways? To answer that question, we’re taking a look at five moments produced by social media that shine a light on the best and worst of these platforms as solidarity tools.
+              </p>
+            </div>
+          </article>
+        </swiper-slide>
+
+        <swiper-slide>
+          <article>
+            <div class="measure lh-copy">
+              <p>So what are some things you can do? </p>
+              <ol class="list ph2">
+                <li class="pv3 bb bt b--white-20">
+                  Got some spare change? Donate to an organization fighting for racial justice. Money is power, and every little bit helps.
+                </li>
+                <li class="pv3 bb bt b--white-20">
+                  Protest. Get your mask, make some signs, and get out of the house! Make your voice heard. Unable to make it out to protests? Call your elected officials and let them know you stand with the Black Lives Matter movement.
+                </li><li>Stay informed. Knowledge is also power, and you can take this opportunity to learn more. Read a book or watch a documentary on the systemic racism of our country. Understand just what we’re facing and what we need to do to fix the problem.</li>
+                <li class="pv3 bb bt b--white-20">
+                  Need to get some things off your chest? Talk openly to others about the Black Lives Matter movement and police brutality — whether it’s someone who agrees with you or someone who might not. If you're lucky, you might even change someone’s mind!
+                </li>
+                <li class="pv3 bb bt b--white-20">
+                  Keep those Instagram posts and TikToks going — and don’t just post one thing to show your friends you’re not racist. Post on the subject over and over and over again, and pay attention to responses so you keep learning.
+                </li>
+                </li>
+              </ol>
+              <p>
+                Social media can — and has — sparked real-world change, but that change doesn't happen on its own. So keep fighting!
+              </p>
+            </div>
+            <ShareContainer />
+          </article>
+        </swiper-slide>
+      </div>
+      <!-- If we need pagination -->
+      <div
+        ref="pagination"
+        class="swiper-pagination"
+      />
+
+      <!-- If we need navigation buttons -->
+      <div class="swiper-button-prev" />
+      <div class="swiper-button-next" />
+
+      <!-- If we need scrollbar -->
+      <div class="swiper-scrollbar" />
+    </div>
   </div>
 </template>
 
 <script>
 
+import Swiper from 'swiper'
 import CommonUtils from '../mixins/CommonUtils'
-import ArticleData from '../data/data.json'
-import MapContainer from '~/components/Map/MapContainer'
-import HeaderContainer from '~/components/Header/HeaderContainer'
-import ShareContainer from '~/components/custom/ShareContainer'
-import FooterContainer from '~/components/Footer/FooterContainer'
+import MenuHeader from '~/components/Header/MenuHeader'
+import ShareContainer from '~/components/Custom/ShareContainer'
+import SwiperSlide from '~/components/Custom/SwiperSlide'
 
 export default {
   components: {
-    MapContainer,
-    HeaderContainer,
+    MenuHeader,
     ShareContainer,
-    FooterContainer
+    SwiperSlide
   },
   mixins: [
     CommonUtils
   ],
   asyncData (ctx) {
     return {
-      articleData: ArticleData.content
     }
   },
   data () {
     return {
+      swiper: null
     }
   },
   computed: {},
@@ -47,6 +284,31 @@ export default {
 
   },
   mounted () {
+    // initialize swiper when document ready
+    if (window.innerWidth > 900) {
+      this.swiper = new Swiper(this.$refs.container, {
+        loop: false,
+        keyboard: {
+          enabled: true,
+          onlyInViewport: false
+        },
+        effect: 'fade',
+        // simulateTouch: true,
+        // mousewheel: true,
+        preloadImages: false,
+        pagination: {
+          el: this.$refs.pagination,
+          clickable: true,
+          renderBullet (index, className) {
+            return `<span class="${className}"></span>`
+          }
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev'
+        }
+      })
+    }
   },
   methods: {
 
@@ -54,7 +316,27 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-@import "~@/css/vars";
-@import "~@/css/base";
+<style lang="scss">
+@import "~@/assets/css/styles";
+@media screen and (min-width: 50em) {
+  @import "~@/node_modules/swiper/swiper";
+  .swiper-pagination {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    padding: 1rem;
+  }
+  .swiper-pagination-bullet {
+    background-color: rgba(white, 0.2);
+    height: 20px;
+    width: 20px;
+    border-radius: 99999px;
+    display: inline-block;
+    margin: 0.2rem;
+  }
+
+  .swiper-pagination-bullet-active {
+    background-color: rgba(white, 0.9);
+  }
+}
 </style>
