@@ -1,7 +1,7 @@
 <template>
   <div class="vh-100-ns flex flex-column bg-dark-gray white assistant relative">
     <MenuHeader
-      class="z-2"
+      class="z-10"
       :menu-fixed="true"
     />
     <!-- Slider main container -->
@@ -293,8 +293,6 @@ export default {
           onlyInViewport: false
         },
         effect: 'fade',
-        // simulateTouch: true,
-        // mousewheel: true,
         preloadImages: false,
         pagination: {
           el: this.$refs.pagination,
