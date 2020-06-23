@@ -33,7 +33,7 @@
         <swiper-slide>
           <article class="measure lh-copy ph3">
             <p>
-              We use platforms like Instagram, Twitter and TikTok to share trivial details of our day-to-day lives and exchange serious information, resources and calls-to-action about important things going on across the world — from COVID-19 to Black Lives Matter.
+              We use platforms like Instagram, Twitter and TikTok to share trivial details of our day-to-day lives and  exchange serious information, resources and calls-to-action about important things going on across the world — from COVID-19 to Black Lives Matter.
             </p>
             <p>
               But whenever hashtags start to trend, things also get complicated. How have efforts like #blackouttuesday impacted the movement for Black lives, in productive or harmful ways? To answer that question, we’re taking a look at five moments produced by social media that shine a light on the best and worst of these platforms as solidarity tools.
@@ -48,7 +48,7 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  Blackout Tuesday, initially dubbed #TheShowMustBePaused by Jamila Thomas and Brianna Agyemang, was a way to memorialize the deaths of George Floyd and Breonna Taylor. The idea, which originated in the music industry, soon caught on, and people across social media started posting black squares as a sign of solidarity.
+                  Blackout Tuesday, initially dubbed <a href="https://www.theshowmustbepaused.com/about">#TheShowMustBePaused by Jamila Thomas and Brianna Agyemang</a>, was a way to memorialize the deaths of George Floyd and Breonna Taylor. The idea, which <a href="https://www.nytimes.com/2020/06/02/arts/music/what-blackout-tuesday.html">originated in the music industry</a>, soon caught on, and people across social media started posting black squares as a sign of solidarity.
                 </p>
                 <p>
                   The only problem? Because people were adding #blacklivesmatter to those posts, social media algorithms boosted images of black squares instead of important information related to Black Lives Matter organizing.
@@ -81,10 +81,10 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  In response to Blackout Tuesday, white supremacists decided to create their own event and hashtag, #whiteoutwednesday, to advance their racist agenda. However, K-pop fans soon caught on and decided to flood the hashtag with videos of their favorite stars. Soon, K-pop videos were all you could see when you searched #whiteoutwednesday or #whitelivesmatter.
+                  In response to Blackout Tuesday, white supremacists decided to create their own event and hashtag, #whiteoutwednesday, to advance their racist agenda. However, <a href="https://yr.media/arts-culture/k-pop-fans-get-creative-to-thwart-online-trolls/">K-pop fans</a> caught on and decided to flood the hashtag with videos of their favorite stars. Soon, K-pop videos were all you could see when you searched #whiteoutwednesday or #whitelivesmatter.
                 </p>
                 <p>
-                  This isn’t the first time K-pop fans have done this kind of thing. When the Dallas Police department tried using a video app to identify protesters, K-pop fans flooded the app with videos of their top stars and crashed the app.
+                  This isn’t the first time K-pop fans have done this kind of thing. When the Dallas Police department tried using a video app to identify protesters, K-pop fans <a href="https://www.theverge.com/2020/6/1/21277423/k-pop-dallas-pd-iwatch-app-flood-review-bomb-surveillance-protests-george-floyd">flooded the app</a> with videos of their top stars and crashed the app. More recently, K-pop stans, along with TikTok users, have taken some credit for <a href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html">Trump’s underwhelming Tulsa rally on June 20th</a> — reporting that they registered thousands of tickets and then didn’t show up, creating a prime photo op: rows of empty seats.
                 </p>
               </div>
             </main>
@@ -110,14 +110,14 @@
           <article class="flex flex-column flex-row-ns w-100 justify-center items-center ph3">
             <main class="flex-grow-0">
               <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
-                SHADOW BANS?
+                SHADOW BAN CONTROVERSY
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
                   TikTok has been accused of preventing people from seeing posts with the hashtags #blacklivesmatter and #GeorgeFloyd.
                 </p>
                 <p>
-                  Users reported that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views. TikTok claimed that, rather than a deliberate attempt at blocking the hashtags, the problem was a glitch that also affected terms like #cat and #hello. Still, many users speculate that TikTok purposefully censored the phrases. Glitch or not, the issue has been resolved and when you search for those same terms on TikTok now, you should get a full view count.
+                  Users <a href="https://www.reuters.com/article/uk-factcheck-tiktok/fact-check-the-blacklivesmatter-hashtag-is-not-banned-on-tiktok-idUSKBN2360OT">reported</a> that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views. TikTok claimed that, rather than a deliberate attempt at blocking the hashtags, the problem was a glitch that also affected terms like #cat and #hello. Still, many users speculate that TikTok purposefully censored the phrases. Glitch or not, the issue has been resolved and when you search for those same terms on TikTok now, you should get a full view count.
                 </p>
               </div>
             </main>
@@ -147,10 +147,10 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  While a lot of people have been doing real work to bring about change, some have been using theatrics to get more likes. One example includes a woman who stopped a worker from boarding up stores in Santa Monica to borrow their drill for a photo op. She then walked back into her Mercedes-Benz and drove away.
+                  While a lot of people have been doing real work to bring about change, some have been using theatrics to get more likes. One example includes a <a href="https://nypost.com/2020/06/02/woman-goes-viral-for-pretending-to-board-up-store-from-looters/">woman</a> who stopped a worker from boarding up stores in Santa Monica to borrow their drill for a photo op. She then walked back into her Mercedes-Benz and drove away.
                 </p>
                 <p>
-                  People soon caught on to what she was doing and called her out.
+                  <a href="https://twitter.com/ewufortheloss/status/1267539200846389249">People soon caught on to what she was doing and called her out.</a>
                 </p>
               </div>
             </main>
@@ -180,7 +180,7 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  In attempts at solidarity, some non-Black teenagers are recording tough conversations (and their reactions) with their parents about the death of George Floyd and the importance of Black Lives Matter, and then posting them on TikTok. One of the most viral of these was posted by Izabella, a 15-year-old girl in Louisiana, upset by her family’s response. While she wasn’t able to have the talk she wanted, she found support from others online.
+                  In attempts at solidarity, some non-Black teenagers are recording tough conversations (and their reactions) with their parents about the death of George Floyd and the importance of Black Lives Matter, and then posting them on TikTok. One of the most viral of these was posted by <a href="https://www.insider.com/tiktok-george-floyd-black-lives-matter-teens-parents-racist-views-2020-6">Izabella</a>, a 15-year-old girl in Louisiana, upset by her family’s response. While she wasn’t able to have the talk she wanted, she found support from others online.
                 </p>
                 <p>
                   If you see yourself as an ally to Black communities and you’re considering posting about a conversation where you’ve called out your parents, keep an eye out for the tendency to make this moment all about yourself and try not to get caught up in wanting tons of "credit" for the necessary work you’re doing.
