@@ -1,6 +1,6 @@
 export default {
-  baseURL: '/doin-it-for-the-gram',
-  title: 'Doin’ It For The ‘gram',
+  baseURL: '/doing-it-for-the-gram',
+  title: 'Doing It For The ‘gram',
   author: 'Static Author',
   publishDate: 'Oct. 2, 2019',
   location: 'Oakland, CA',
