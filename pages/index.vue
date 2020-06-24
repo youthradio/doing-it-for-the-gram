@@ -19,13 +19,13 @@
                 DOING IT FOR THE ‘GRAM
               </h1>
               <h3 class="roboto-mono fw3 f3-ns f4 lh-title">
-                Five Social Media Moves That Helped Or Hurt #BlackLivesMatter
+                Five Social Media Moves That Helped And Hurt #BlackLivesMatter
               </h3>
               <h4 class="assistant normal">
                 By Zoe Harwood
               </h4>
               <h4 class="assistant normal">
-                06.23.20
+                06.24.20
               </h4>
             </article>
           </div>
