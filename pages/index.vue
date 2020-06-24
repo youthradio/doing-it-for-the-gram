@@ -16,7 +16,7 @@
           <div class="flex items-center h-100 w-100 bg-dark-gray white cover" style="background:url(featurex1125.jpg) no-repeat center;">
             <article class="measure ml6-ns ph3">
               <h1 class="day-sans f1-ns f2 lh-title">
-                DOING IT FOR THE ‘GRAM
+                DOING IT FOR THE ‘GRAM?
               </h1>
               <h3 class="roboto-mono fw3 f3-ns f4 lh-title">
                 Five Social Media Moves That Helped And Hurt #BlackLivesMatter
