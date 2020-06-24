@@ -4,7 +4,7 @@
       class="z-10"
       :menu-fixed="true"
     />
-    <!-- Slider main container -->
+    <!-- Slider div container -->
     <div
       ref="container"
       class="swiper-container h-100 w-100 bg-dark-gray"
@@ -45,7 +45,7 @@
         </swiper-slide>
         <swiper-slide>
           <article class="flex flex-column flex-row-ns w-100 justify-center items-center ph3">
-            <main class="flex-grow-0">
+            <div class="flex-grow-0">
               <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
                 BLACKOUT TUESDAY
               </h3>
@@ -65,26 +65,24 @@
                   The only problem? Because people were adding #blacklivesmatter to those posts, social media algorithms boosted images of black squares instead of important information related to Black Lives Matter organizing.
                 </p>
               </div>
-            </main>
+            </div>
             <div class="pl3-ns">
               <object
                 class="disable-mouse db dn-ns"
                 data="images/blackouttuesday_SVG-mobile.svg"
                 type="image/svg+xml"
-                alt="Screenshot of Instagram feed shows results of #blacklivesmatter with the following annotations: Black squares flooded Instagram on June 2nd / Vital information on protests got lost on users' feed and searches / Quote by Victoria Balla: People are just posting because it's a trend. They know that if they didn't people would call them out for being a racist or for not supporting the movement. So, a lot of it is not genuine."
-              />
+              > Screenshot of Instagram feed shows results of #blacklivesmatter with the following annotations: Black squares flooded Instagram on June 2nd / Vital information on protests got lost on users' feed and searches / Quote by Victoria Balla: People are just posting because it's a trend. They know that if they didn't people would call them out for being a racist or for not supporting the movement. So, a lot of it is not genuine.</object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/blackouttuesday_SVG-desktop.svg"
                 type="image/svg+xml"
-                alt="Black squares flooded Instagram on June 2nd / Vital information on protests got lost on users' feed and searches / Quotation by Victoria Balla: People are just posting because it's a trend. They know that if they didn't people would call them out for being a racist or for not supporting the movement. So, a lot of it is not genuine."
-              />
+              >Black squares flooded Instagram on June 2nd / Vital information on protests got lost on users' feed and searches / Quotation by Victoria Balla: People are just posting because it's a trend. They know that if they didn't people would call them out for being a racist or for not supporting the movement. So, a lot of it is not genuine. </object>
             </div>
           </article>
         </swiper-slide>
         <swiper-slide>
           <article class="flex flex-column flex-row-ns w-100 justify-center items-center ph3">
-            <main class="flex-grow-0">
+            <div class="flex-grow-0">
               <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
                 WHITEOUT WEDNESDAY
               </h3>
@@ -112,26 +110,24 @@
                   >Trump’s underwhelming Tulsa rally on June 20th</a> — reporting that they registered thousands of tickets and then didn’t show up, creating a prime photo op: rows of empty seats.
                 </p>
               </div>
-            </main>
+            </div>
             <div class="pl3-ns">
               <object
                 class="disable-mouse db dn-ns"
                 data="images/whiteoutwednesday_SVG-mobile.svg"
                 type="image/svg+xml"
-                alt="Screenshot of Instagram feed shows K-pop content on #whiteoutwednesday with the following annotations: As of June 9th, Instagram counts 92,000+ posts under #whiteoutwednesday / K-pop content was also flooding related hastags like #whitelivesmatter, #copslivesmatter, #bluelivesmatter, and #trump2020 / Quote by Ariel Tang: I think all sides of the Internet coming together to try and contribute in some way is kind of crazy. It shows solidarity which I think is really cool."
-              />
+              >Screenshot of Instagram feed shows K-pop content on #whiteoutwednesday with the following annotations: As of June 9th, Instagram counts 92,000+ posts under #whiteoutwednesday / K-pop content was also flooding related hastags like #whitelivesmatter, #copslivesmatter, #bluelivesmatter, and #trump2020 / Quote by Ariel Tang: I think all sides of the Internet coming together to try and contribute in some way is kind of crazy. It shows solidarity which I think is really cool.</object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/whiteoutwednesday_SVG-desktop.svg"
                 type="image/svg+xml"
-                alt="Screenshot of Instagram feed shows K-pop content on #whiteoutwednesday with the following annotations: As of June 9th, Instagram counts 92,000+ posts under #whiteoutwednesday / K-pop content was also flooding related hastags like #whitelivesmatter, #copslivesmatter, #bluelivesmatter, and #trump2020 / Quote by Ariel Tang: I think all sides of the Internet coming together to try and contribute in some way is kind of crazy. It shows solidarity which I think is really cool."
-              />
+              >Screenshot of Instagram feed shows K-pop content on #whiteoutwednesday with the following annotations: As of June 9th, Instagram counts 92,000+ posts under #whiteoutwednesday / K-pop content was also flooding related hastags like #whitelivesmatter, #copslivesmatter, #bluelivesmatter, and #trump2020 / Quote by Ariel Tang: I think all sides of the Internet coming together to try and contribute in some way is kind of crazy. It shows solidarity which I think is really cool.</object>
             </div>
           </article>
         </swiper-slide>
         <swiper-slide>
           <article class="flex flex-column flex-row-ns w-100 justify-center items-center ph3">
-            <main class="flex-grow-0">
+            <div class="flex-grow-0">
               <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
                 SHADOW BAN ALLEGATIONS
               </h3>
@@ -147,26 +143,24 @@
                   >reported</a> that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views — sparking speculation that TikTok had censored those phrases. TikTok responded with a statement that the problem had been a glitch that also affected terms like #cat and #hello. Still, glitch or not, the issue has been resolved, and when you search for those same terms on TikTok now, you should get a full view count.
                 </p>
               </div>
-            </main>
+            </div>
             <div class="pl3-ns">
               <object
                 class="disable-mouse db dn-ns"
                 data="images/shadowbans_SVG-mobile.svg"
                 type="image/svg+xml"
-                alt="Screenshot of TikTok search with the following annotations: Both #blacklivesmatter and #GeorgeFloyd appears to have zero views in the days following national outrage of George Floyd’s killing / Users tried modifying hashtags in an attempt to get their content viewed by others"
-              />
+              >Screenshot of TikTok search with the following annotations: Both #blacklivesmatter and #GeorgeFloyd appears to have zero views in the days following national outrage of George Floyd’s killing / Users tried modifying hashtags in an attempt to get their content viewed by others</object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/shadowbans_SVG-desktop.svg"
                 type="image/svg+xml"
-                alt="Screenshot of TikTok search with the following annotations: Both #blacklivesmatter and #GeorgeFloyd appears to have zero views in the days following national outrage of George Floyd’s killing / Users tried modifying hashtags in an attempt to get their content viewed by others"
-              />
+              >Screenshot of TikTok search with the following annotations: Both #blacklivesmatter and #GeorgeFloyd appears to have zero views in the days following national outrage of George Floyd’s killing / Users tried modifying hashtags in an attempt to get their content viewed by others</object>
             </div>
           </article>
         </swiper-slide>
         <swiper-slide>
           <article class="flex flex-column flex-row-ns w-100 justify-center items-center ph3">
-            <main class="flex-grow-0">
+            <div class="flex-grow-0">
               <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
                 FAKE ACTIVISM
               </h3>
@@ -187,26 +181,24 @@
                   >People soon caught on to what she was doing and called her out.</a>
                 </p>
               </div>
-            </main>
+            </div>
             <div class="pl3-ns">
               <object
                 class="disable-mouse db dn-ns"
                 data="images/fakeactivism-SVG-mobile.svg"
                 type="image/svg+xml"
-                alt="Screenshot of Twitter video by user ewufortheloss depicting a woman stopping a worker from boarding up store windows in Santa Monica, California to pose for a photo with the following annotations: Pointing at how the she is holding the drill at a tilted angle: You really don’t want want to be holding the drill like that though… / Pointing at the shoes she is wearing: Would anyone really be wearing sandals like this while working with power tools?! / Pointing at worker who was stopped: Essential worker appears to also be posing, presumably to make her photo look more real / Sarcastically adding: #4daclout, #BLM, #communityservice"
-              />
+              >Screenshot of Twitter video by user ewufortheloss depicting a woman stopping a worker from boarding up store windows in Santa Monica, California to pose for a photo with the following annotations: Pointing at how the she is holding the drill at a tilted angle: You really don’t want want to be holding the drill like that though… / Pointing at the shoes she is wearing: Would anyone really be wearing sandals like this while working with power tools?! / Pointing at worker who was stopped: Essential worker appears to also be posing, presumably to make her photo look more real / Sarcastically adding: #4daclout, #BLM, #communityservice</object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/fakeactivism_SVG-desktop.svg"
                 type="image/svg+xml"
-                alt="Screenshot of Twitter video by user ewufortheloss depicting a woman stopping a worker from boarding up store windows in Santa Monica, California to pose for a photo with the following annotations: Pointing at how the she is holding the drill at a tilted angle: You really don’t want want to be holding the drill like that though… / Pointing at the shoes she is wearing: Would anyone really be wearing sandals like this while working with power tools?! / Pointing at worker who was stopped: Essential worker appears to also be posing, presumably to make her photo look more real / Sarcastically adding: #4daclout, #BLM, #communityservice"
-              />
+              >Screenshot of Twitter video by user ewufortheloss depicting a woman stopping a worker from boarding up store windows in Santa Monica, California to pose for a photo with the following annotations: Pointing at how the she is holding the drill at a tilted angle: You really don’t want want to be holding the drill like that though… / Pointing at the shoes she is wearing: Would anyone really be wearing sandals like this while working with power tools?! / Pointing at worker who was stopped: Essential worker appears to also be posing, presumably to make her photo look more real / Sarcastically adding: #4daclout, #BLM, #communityservice</object>
             </div>
           </article>
         </swiper-slide>
         <swiper-slide>
           <article class="flex flex-column flex-row-ns w-100 justify-center items-center ph3">
-            <main class="flex-grow-0">
+            <div class="flex-grow-0">
               <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
                 TALKING TIKTOK
               </h3>
@@ -225,20 +217,18 @@
                   Those conversations can be powerful and go a long way to highlighting everyday racism, but remember — “allies” highlighting what’s hard about this moment for <i>them</i> personally can do real damage. So if you’re an ally planning on posting something similar, ask yourself: Am I doing this for myself or for the movement? What am I hoping to achieve?
                 </p>
               </div>
-            </main>
+            </div>
             <div class="pl3-ns">
               <object
                 class="disable-mouse db dn-ns"
                 data="images/tiktok-convos_SVG-mobile.svg"
                 type="image/svg+xml"
-                alt="Screenshot of viral TikTok video from user Izabella Miletello depicting her distraught and crying face with the following annotations: Teens are expressing distress and anger after tough convos with their parents about race / Quote by Ariel Tang: It’s hard talking to family members about it because they just try to not get involved in politics. Because, you know, it’s the culture of assimilation. So, it’s been difficult, but I’m still working at it."
-              />
+              >Screenshot of viral TikTok video from user Izabella Miletello depicting her distraught and crying face with the following annotations: Teens are expressing distress and anger after tough convos with their parents about race / Quote by Ariel Tang: It’s hard talking to family members about it because they just try to not get involved in politics. Because, you know, it’s the culture of assimilation. So, it’s been difficult, but I’m still working at it.</object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/tiktok-convos_SVG-desktop.svg"
                 type="image/svg+xml"
-                alt="Screenshot of viral TikTok video from user Izabella Miletello depicting her distraught and crying face with the following annotations: Teens are expressing distress and anger after tough convos with their parents about race / Quote by Ariel Tang: It’s hard talking to family members about it because they just try to not get involved in politics. Because, you know, it’s the culture of assimilation. So, it’s been difficult, but I’m still working at it."
-              />
+              >Screenshot of viral TikTok video from user Izabella Miletello depicting her distraught and crying face with the following annotations: Teens are expressing distress and anger after tough convos with their parents about race / Quote by Ariel Tang: It’s hard talking to family members about it because they just try to not get involved in politics. Because, you know, it’s the culture of assimilation. So, it’s been difficult, but I’m still working at it.</object>
             </div>
           </article>
         </swiper-slide>
