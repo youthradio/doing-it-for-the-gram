@@ -78,11 +78,15 @@ export default {
         as: 'style',
         onload: "this.onload=null;this.rel='stylesheet'"
       }
-
     ],
-    noscript:
-         [
-           { id: 'deferred-styles', innerHTML: '<link rel="stylesheet" type="text/css" href="https://yr.media/statics/yr-media-typography/yr-typography.css"/>', body: true }]
+    noscript: [
+      {
+        id: 'deferred-styles',
+        innerHTML:
+          '<link rel="stylesheet" type="text/css" href="https://yr.media/statics/yr-media-typography/yr-typography.css"/>',
+        body: true
+      }
+    ]
   },
   /*
    ** Customize the progress-bar color
@@ -132,6 +136,13 @@ export default {
       if (isClient) {
         vue.transformAssetUrls.img = ['data-src', 'src']
         vue.transformAssetUrls.source = ['data-srcset', 'srcset']
+      }
+    },
+    postcss: {
+      plugins: {
+        cssnano: {
+          preset: ['default', { minifyFontValues: { removeQuotes: false } }]
+        }
       }
     }
   }
