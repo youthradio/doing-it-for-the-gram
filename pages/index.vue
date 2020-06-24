@@ -19,7 +19,7 @@
                 DOING IT FOR THE ‘GRAM
               </h1>
               <h3 class="roboto-mono fw3 f3-ns f4 lh-title">
-                Five Social Media Moves That Helped Or Hurt #BlackLivesMatter
+                Five Social Media Moves That Helped And Hurt #BlackLivesMatter
               </h3>
               <h4 class="assistant normal">
                 By Zoe Harwood
@@ -173,10 +173,13 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  In attempts at solidarity, some non-Black teenagers are recording tough conversations (and their reactions) with their parents about the death of George Floyd and the importance of Black Lives Matter, and then posting them on TikTok. One of the most viral of these was posted by <a target="_blank" class="dib link green dim underline" href="https://www.insider.com/tiktok-george-floyd-black-lives-matter-teens-parents-racist-views-2020-6">Izabella</a>, a 15-year-old girl in Louisiana, upset by her family’s response. While she wasn’t able to have the talk she wanted, she found support from others online.
+                This is a tricky one.
                 </p>
                 <p>
-                  If you see yourself as an ally to Black communities and you’re considering posting about a conversation where you’ve called out your parents, keep an eye out for the tendency to make this moment all about yourself and try not to get caught up in wanting tons of "credit" for the necessary work you’re doing.
+                <a target="_blank" class="dib link green dim underline" href="https://www.insider.com/tiktok-george-floyd-black-lives-matter-teens-parents-racist-views-2020-6">Izabella</a>, a 15-year-old girl in Louisiana, tried to talk to her parents about the killing of George Floyd and the importance of Black Lives Matter and was deeply upset by how they responded. “I literally hate my family so much,” she said on TikTok. Her video went viral, and more and more young people made similar posts, turning it into a trend.
+                </p>
+                <p>
+                  Those conversations can be powerful and go a long way to highlighting everyday racism, but remember — “allies” highlighting what’s hard about this moment for them personally — can do real damage. So if you’re an ally planning on posting something similar, ask yourself: Am I doing this for myself or for the movement? What am I hoping to achieve?
                 </p>
               </div>
             </main>
@@ -219,7 +222,7 @@
                 Need to get some things off your chest? Talk openly to others about the Black Lives Matter movement and police brutality — whether it’s someone who agrees with you or someone who might not. If you're lucky, you might even change someone’s mind!
               </li>
               <li class="pv3 bb bt b--white-20">
-                Each time you post, tune into what you want to accomplish and pay attention to responses, so you can keep learning about the best ways to be a part of positive change.
+                Keep posting, and each time you post, think about what you want to accomplish and pay attention to responses, so you can keep learning about the best ways to be a part of positive change.
               </li>
             </ol>
             <p>
