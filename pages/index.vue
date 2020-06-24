@@ -86,7 +86,7 @@
                   In response to Blackout Tuesday, white supremacists decided to create their own event and hashtag, #whiteoutwednesday, to advance their racist agenda. However, <a target="_blank" class="link green dim underline" href="https://yr.media/arts-culture/k-pop-fans-get-creative-to-thwart-online-trolls/">K-pop fans</a> caught on and decided to flood the hashtag with videos of their favorite stars. Soon, K-pop videos were all you could see when you searched #whiteoutwednesday or #whitelivesmatter.
                 </p>
                 <p>
-                  This isn’t the first time K-pop fans have done this kind of thing. When the Dallas Police department tried using a video app to identify protesters, K-pop fans <a target="_blank" class="link green dim underline" href="https://www.theverge.com/2020/6/1/21277423/k-pop-dallas-pd-iwatch-app-flood-review-bomb-surveillance-protests-george-floyd">flooded the app</a> with videos of their top stars and crashed the app. More recently, K-pop stans, along with TikTok users, have taken some credit for <a target="_blank" class="link green dim underline" href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html">Trump’s underwhelming Tulsa rally on June 20th</a> — reporting that they registered thousands of tickets and then didn’t show up, creating a prime photo op: rows of empty seats.
+                  This isn’t the first time K-pop fans have done this kind of thing. When the <a target="_blank" class="link green dim underline" href="https://twitter.com/DallasPD/status/1266969685532332032>Dallas Police department</a> tried using a video app to identify protesters, K-pop fans <a target="_blank" class="link green dim underline" href="https://www.theverge.com/2020/6/1/21277423/k-pop-dallas-pd-iwatch-app-flood-review-bomb-surveillance-protests-george-floyd">flooded the app</a> with videos of their top stars and crashed the app. More recently, K-pop stans, along with TikTok users, have taken some credit for <a target="_blank" class="link green dim underline" href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html">Trump’s underwhelming Tulsa rally on June 20th</a> — reporting that they registered thousands of tickets and then didn’t show up, creating a prime photo op: rows of empty seats.
                 </p>
               </div>
             </main>
@@ -114,14 +114,14 @@
           <article class="flex flex-column flex-row-ns w-100 justify-center items-center ph3">
             <main class="flex-grow-0">
               <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
-                SHADOW BAN CONTROVERSY
+                SHADOW BAN ALLEGATIONS
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  TikTok has been accused of preventing people from seeing posts with the hashtags #blacklivesmatter and #GeorgeFloyd.
+                  TikTok was accused of preventing people from seeing posts with the hashtags #blacklivesmatter and #GeorgeFloyd.
                 </p>
                 <p>
-                  Users <a target="_blank" class="link green dim underline" href="https://www.reuters.com/article/uk-factcheck-tiktok/fact-check-the-blacklivesmatter-hashtag-is-not-banned-on-tiktok-idUSKBN2360OT">reported</a> that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views. TikTok claimed that, rather than a deliberate attempt at blocking the hashtags, the problem was a glitch that also affected terms like #cat and #hello. Still, many users speculate that TikTok purposefully censored the phrases. Glitch or not, the issue has been resolved and when you search for those same terms on TikTok now, you should get a full view count.
+                  Users <a target="_blank" class="link green dim underline" href="https://www.reuters.com/article/uk-factcheck-tiktok/fact-check-the-blacklivesmatter-hashtag-is-not-banned-on-tiktok-idUSKBN2360OT">reported</a> that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views — sparking speculation that TikTok had censored those phrases. TikTok responded with a statement that the problem had been a glitch that also affected terms like #cat and #hello. Still, glitch or not, the issue has been resolved, and when you search for those same terms on TikTok now, you should get a full view count.
                 </p>
               </div>
             </main>
@@ -239,7 +239,7 @@
                 Need to get some things off your chest? Talk openly to others about the Black Lives Matter movement and police brutality — whether it’s someone who agrees with you or someone who might not. If you're lucky, you might even change someone’s mind!
               </li>
               <li class="pv3 bb bt b--white-20">
-                Keep those Instagram posts and TikToks going — and don’t just post one thing to show your friends you’re not racist. Post on the subject over and over and over again, and pay attention to responses so you keep learning.
+                Each time you post, tune into what you want to accomplish and pay attention to responses, so you can keep learning about the best ways to be a part of positive change.
               </li>
             </ol>
             <p>
