@@ -13,7 +13,10 @@
       <div class="swiper-wrapper">
         <!-- Slides -->
         <swiper-slide>
-          <div class="flex items-center h-100 w-100 bg-dark-gray white cover" style="background:url(featurex1125.jpg) no-repeat center;">
+          <div
+            class="flex items-center h-100 w-100 bg-dark-gray white cover"
+            style="background:url(featurex1125.jpg) no-repeat center;"
+          >
             <article class="measure ml6-ns ph3">
               <h1 class="day-sans f1-ns f2 lh-title">
                 DOING IT FOR THE ‘GRAM?
@@ -33,7 +36,7 @@
         <swiper-slide>
           <article class="measure lh-copy ph3">
             <p>
-              We use platforms like Instagram, Twitter and TikTok to share trivial details of our day-to-day lives and  exchange serious information, resources and calls-to-action about important things going on across the world — from COVID-19 to Black Lives Matter.
+              We use platforms like Instagram, Twitter and TikTok to share trivial details of our day-to-day lives and exchange serious information, resources and calls-to-action about important things going on across the world — from COVID-19 to Black Lives Matter.
             </p>
             <p>
               But whenever hashtags start to trend, things also get complicated. How have efforts like #blackouttuesday impacted the movement for Black lives, in productive or harmful ways? To answer that question, we’re taking a look at five moments produced by social media that shine a light on the best and worst of these platforms as solidarity tools.
@@ -48,7 +51,15 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  Blackout Tuesday, initially dubbed <a target="_blank" class="link green dim underline" href="https://www.theshowmustbepaused.com/about">#TheShowMustBePaused by Jamila Thomas and Brianna Agyemang</a>, was a way to memorialize the deaths of George Floyd and Breonna Taylor. The idea, which <a target="_blank" class="link green dim underline" href="https://www.nytimes.com/2020/06/02/arts/music/what-blackout-tuesday.html">originated in the music industry</a>, soon caught on, and people across social media started posting black squares as a sign of solidarity.
+                  Blackout Tuesday, initially dubbed <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://www.theshowmustbepaused.com/about"
+                  >#TheShowMustBePaused by Jamila Thomas and Brianna Agyemang</a>, was a way to memorialize the deaths of George Floyd and Breonna Taylor. The idea, which <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://www.nytimes.com/2020/06/02/arts/music/what-blackout-tuesday.html"
+                  >originated in the music industry</a>, soon caught on, and people across social media started posting black squares as a sign of solidarity.
                 </p>
                 <p>
                   The only problem? Because people were adding #blacklivesmatter to those posts, social media algorithms boosted images of black squares instead of important information related to Black Lives Matter organizing.
@@ -79,10 +90,26 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  In response to Blackout Tuesday, white supremacists decided to create their own event and hashtag, #whiteoutwednesday, to advance their racist agenda. However, <a target="_blank" class="link green dim underline" href="https://yr.media/arts-culture/k-pop-fans-get-creative-to-thwart-online-trolls/">K-pop fans</a> caught on and decided to flood the hashtag with videos of their favorite stars. Soon, K-pop videos were all you could see when you searched #whiteoutwednesday or #whitelivesmatter.
+                  In response to Blackout Tuesday, white supremacists decided to create their own event and hashtag, #whiteoutwednesday, to advance their racist agenda. However, <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://yr.media/arts-culture/k-pop-fans-get-creative-to-thwart-online-trolls/"
+                  >K-pop fans</a> caught on and decided to flood the hashtag with videos of their favorite stars. Soon, K-pop videos were all you could see when you searched #whiteoutwednesday or #whitelivesmatter.
                 </p>
                 <p>
-                  This isn’t the first time K-pop fans have done this kind of thing. When the <a target="_blank" class="link green dim underline" href="https://twitter.com/DallasPD/status/1266969685532332032">Dallas Police department</a> tried using a video app to identify protesters, K-pop fans <a target="_blank" class="link green dim underline" href="https://www.theverge.com/2020/6/1/21277423/k-pop-dallas-pd-iwatch-app-flood-review-bomb-surveillance-protests-george-floyd">flooded the app</a> with videos of their top stars and crashed the app. More recently, K-pop stans, along with TikTok users, have taken some credit for <a target="_blank" class="link green dim underline" href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html">Trump’s underwhelming Tulsa rally on June 20th</a> — reporting that they registered thousands of tickets and then didn’t show up, creating a prime photo op: rows of empty seats.
+                  This isn’t the first time K-pop fans have done this kind of thing. When the <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://twitter.com/DallasPD/status/1266969685532332032"
+                  >Dallas Police department</a> tried using a video app to identify protesters, K-pop fans <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://www.theverge.com/2020/6/1/21277423/k-pop-dallas-pd-iwatch-app-flood-review-bomb-surveillance-protests-george-floyd"
+                  >flooded the app</a> with videos of their top stars and crashed the app. More recently, K-pop stans, along with TikTok users, have taken some credit for <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html"
+                  >Trump’s underwhelming Tulsa rally on June 20th</a> — reporting that they registered thousands of tickets and then didn’t show up, creating a prime photo op: rows of empty seats.
                 </p>
               </div>
             </main>
@@ -113,7 +140,11 @@
                   TikTok was accused of preventing people from seeing posts with the hashtags #blacklivesmatter and #GeorgeFloyd.
                 </p>
                 <p>
-                  Users <a target="_blank" class="link green dim underline" href="https://www.reuters.com/article/uk-factcheck-tiktok/fact-check-the-blacklivesmatter-hashtag-is-not-banned-on-tiktok-idUSKBN2360OT">reported</a> that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views — sparking speculation that TikTok had censored those phrases. TikTok responded with a statement that the problem had been a glitch that also affected terms like #cat and #hello. Still, glitch or not, the issue has been resolved, and when you search for those same terms on TikTok now, you should get a full view count.
+                  Users <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://www.reuters.com/article/uk-factcheck-tiktok/fact-check-the-blacklivesmatter-hashtag-is-not-banned-on-tiktok-idUSKBN2360OT"
+                  >reported</a> that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views — sparking speculation that TikTok had censored those phrases. TikTok responded with a statement that the problem had been a glitch that also affected terms like #cat and #hello. Still, glitch or not, the issue has been resolved, and when you search for those same terms on TikTok now, you should get a full view count.
                 </p>
               </div>
             </main>
@@ -141,18 +172,26 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  While a lot of people have been doing real work to bring about change, some have been using theatrics to get more likes. One example includes a <a target="_blank" class="link green dim underline" href="https://nypost.com/2020/06/02/woman-goes-viral-for-pretending-to-board-up-store-from-looters/">
+                  While a lot of people have been doing real work to bring about change, some have been using theatrics to get more likes. One example includes a <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://nypost.com/2020/06/02/woman-goes-viral-for-pretending-to-board-up-store-from-looters/"
+                  >
                     woman</a> who stopped a worker from boarding up stores in Santa Monica to borrow their drill for a photo op. She then walked back into her Mercedes-Benz and drove away.
                 </p>
                 <p>
-                  <a target="_blank" class="link green dim underline" href="https://twitter.com/ewufortheloss/status/1267539200846389249">People soon caught on to what she was doing and called her out.</a>
+                  <a
+                    target="_blank"
+                    class="link green dim underline"
+                    href="https://twitter.com/ewufortheloss/status/1267539200846389249"
+                  >People soon caught on to what she was doing and called her out.</a>
                 </p>
               </div>
             </main>
             <div class="pl3-ns">
               <object
                 class="disable-mouse db dn-ns"
-                data="images/tiktok-convos_SVG-desktop-mobile.svg"
+                data="images/fakeactivism-SVG-mobile.svg"
                 type="image/svg+xml"
                 alt="Screenshot of Twitter video by user ewufortheloss depicting a woman stopping a worker from boarding up store windows in Santa Monica, California to pose for a photo with the following annotations: Pointing at how the she is holding the drill at a tilted angle: You really don’t want want to be holding the drill like that though… / Pointing at the shoes she is wearing: Would anyone really be wearing sandals like this while working with power tools?! / Pointing at worker who was stopped: Essential worker appears to also be posing, presumably to make her photo look more real / Sarcastically adding: #4daclout, #BLM, #communityservice"
               />
@@ -176,7 +215,11 @@
                   This is a tricky one.
                 </p>
                 <p>
-                  <a target="_blank" class="dib link green dim underline" href="https://www.insider.com/tiktok-george-floyd-black-lives-matter-teens-parents-racist-views-2020-6">Izabella</a>, a 15-year-old girl in Louisiana, tried to talk to her parents about the killing of George Floyd and the importance of Black Lives Matter and was deeply upset by how they responded. “I literally hate my family so much,” she said on TikTok. Her video went viral, and more and more young people made similar posts, turning it into a trend.
+                  <a
+                    target="_blank"
+                    class="dib link green dim underline"
+                    href="https://www.insider.com/tiktok-george-floyd-black-lives-matter-teens-parents-racist-views-2020-6"
+                  >Izabella</a>, a 15-year-old girl in Louisiana, tried to talk to her parents about the killing of George Floyd and the importance of Black Lives Matter and was deeply upset by how they responded. “I literally hate my family so much,” she said on TikTok. Her video went viral, and more and more young people made similar posts, turning it into a trend.
                 </p>
                 <p>
                   Those conversations can be powerful and go a long way to highlighting everyday racism, but remember — “allies” highlighting what’s hard about this moment for <i>them</i> personally can do real damage. So if you’re an ally planning on posting something similar, ask yourself: Am I doing this for myself or for the movement? What am I hoping to achieve?
@@ -327,37 +370,37 @@ export default {
 
   },
   mounted () {
-    // initialize swiper when document ready
-    if (window.innerWidth > 900) {
-      this.swiper = new Swiper(this.$refs.container, {
-        loop: false,
-        keyboard: {
-          enabled: true,
-          onlyInViewport: false
-        },
-        mousewheel: {
-          eventsTarget: document.body,
-          sensitivity: 1,
-          releaseOnEdges: true
-        },
-        direction: 'vertical',
-
-        pagination: {
-          el: this.$refs.pagination,
-          clickable: true,
-          renderBullet (index, className) {
-            return `<span class="${className}"></span>`
-          }
-        }
-        // navigation: {
-        //   nextEl: '.swiper-button-next',
-        //   prevEl: '.swiper-button-prev'
-        // }
-      })
-    }
+    window.addEventListener('resize', this.resizeFn)
+    this.resizeFn()
   },
   methods: {
+    resizeFn () {
+      if (window.innerWidth > 800) {
+        this.swiper = new Swiper(this.$refs.container, {
+          loop: false,
+          keyboard: {
+            enabled: true,
+            onlyInViewport: false
+          },
+          mousewheel: {
+            eventsTarget: document.body,
+            sensitivity: 1,
+            releaseOnEdges: true
+          },
+          direction: 'vertical',
 
+          pagination: {
+            el: this.$refs.pagination,
+            clickable: true,
+            renderBullet (index, className) {
+              return `<span class="${className}"></span>`
+            }
+          }
+        })
+      } else {
+        this.swiper = null
+      }
+    }
   }
 }
 </script>
@@ -365,7 +408,7 @@ export default {
 <style lang="scss">
 @import "~@/assets/css/styles";
 
-@media screen and (min-width: 50em) {
+@media screen and (min-width: 800px) {
   @import "~@/node_modules/swiper/swiper";
   .swiper-pagination {
     position: absolute;
