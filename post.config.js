@@ -1,6 +1,6 @@
 export default {
   baseURL: '/doing-it-for-the-gram',
-  title: 'Doing It For The ‘gram',
+  title: 'Doing It For The ‘Gram',
   author: 'Zoe Harwood',
   publishDate: 'Oct. 2, 2019',
   location: 'Oakland, CA',
