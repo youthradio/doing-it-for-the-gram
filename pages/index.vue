@@ -60,6 +60,7 @@
                 class="disable-mouse db dn-ns"
                 data="images/blackouttuesday_SVG-mobile.svg"
                 type="image/svg+xml"
+                alt="Screenshot of Instagram feed shows results of #blacklivesmatter with the following annotations: Black squares flooded Instagram on June 2nd / Vital information on protests got lost on users' feed and searches / Quote by Victoria Balla: People are just posting because it's a trend. They know that if they didn't people would call them out for being a racist or for not supporting the movement. So, a lot of it is not genuine."
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -67,6 +68,7 @@
                 class="disable-mouse dn db-ns mw-500"
                 data="images/blackouttuesday_SVG-desktop.svg"
                 type="image/svg+xml"
+                alt="Black squares flooded Instagram on June 2nd / Vital information on protests got lost on users' feed and searches / Quotation by Victoria Balla: People are just posting because it's a trend. They know that if they didn't people would call them out for being a racist or for not supporting the movement. So, a lot of it is not genuine."
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -84,7 +86,7 @@
                   In response to Blackout Tuesday, white supremacists decided to create their own event and hashtag, #whiteoutwednesday, to advance their racist agenda. However, <a target="_blank" class="link green dim underline" href="https://yr.media/arts-culture/k-pop-fans-get-creative-to-thwart-online-trolls/">K-pop fans</a> caught on and decided to flood the hashtag with videos of their favorite stars. Soon, K-pop videos were all you could see when you searched #whiteoutwednesday or #whitelivesmatter.
                 </p>
                 <p>
-                  This isn’t the first time K-pop fans have done this kind of thing. When the Dallas Police department tried using a video app to identify protesters, K-pop fans <a target="_blank" class="link green dim underline" href="https://www.theverge.com/2020/6/1/21277423/k-pop-dallas-pd-iwatch-app-flood-review-bomb-surveillance-protests-george-floyd">flooded the app</a> with videos of their top stars and crashed the app. More recently, K-pop stans, along with TikTok users, have taken some credit for <a target="_blank" class="link green dim underline" href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html">Trump’s underwhelming Tulsa rally on June 20th</a> — reporting that they registered thousands of tickets and then didn’t show up, creating a prime photo op: rows of empty seats.
+                  This isn’t the first time K-pop fans have done this kind of thing. When the <a target="_blank" class="link green dim underline" href="https://twitter.com/DallasPD/status/1266969685532332032>Dallas Police department</a> tried using a video app to identify protesters, K-pop fans <a target="_blank" class="link green dim underline" href="https://www.theverge.com/2020/6/1/21277423/k-pop-dallas-pd-iwatch-app-flood-review-bomb-surveillance-protests-george-floyd">flooded the app</a> with videos of their top stars and crashed the app. More recently, K-pop stans, along with TikTok users, have taken some credit for <a target="_blank" class="link green dim underline" href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html">Trump’s underwhelming Tulsa rally on June 20th</a> — reporting that they registered thousands of tickets and then didn’t show up, creating a prime photo op: rows of empty seats.
                 </p>
               </div>
             </main>
@@ -93,6 +95,7 @@
                 class="disable-mouse db dn-ns"
                 data="images/whiteoutwednesday_SVG-mobile.svg"
                 type="image/svg+xml"
+                alt="Screenshot of Instagram feed shows K-pop content on #whiteoutwednesday with the following annotations: As of June 9th, Instagram counts 92,000+ posts under #whiteoutwednesday / K-pop content was also flooding related hastags like #whitelivesmatter, #copslivesmatter, #bluelivesmatter, and #trump2020 / Quote by Ariel Tang: I think all sides of the Internet coming together to try and contribute in some way is kind of crazy. It shows solidarity which I think is really cool."
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -100,6 +103,7 @@
                 class="disable-mouse dn db-ns mw-500"
                 data="images/whiteoutwednesday_SVG-desktop.svg"
                 type="image/svg+xml"
+                alt="Screenshot of Instagram feed shows K-pop content on #whiteoutwednesday with the following annotations: As of June 9th, Instagram counts 92,000+ posts under #whiteoutwednesday / K-pop content was also flooding related hastags like #whitelivesmatter, #copslivesmatter, #bluelivesmatter, and #trump2020 / Quote by Ariel Tang: I think all sides of the Internet coming together to try and contribute in some way is kind of crazy. It shows solidarity which I think is really cool."
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -110,14 +114,14 @@
           <article class="flex flex-column flex-row-ns w-100 justify-center items-center ph3">
             <main class="flex-grow-0">
               <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
-                SHADOW BAN CONTROVERSY
+                SHADOW BAN ALLEGATIONS
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                  TikTok has been accused of preventing people from seeing posts with the hashtags #blacklivesmatter and #GeorgeFloyd.
+                  TikTok was accused of preventing people from seeing posts with the hashtags #blacklivesmatter and #GeorgeFloyd.
                 </p>
                 <p>
-                  Users <a target="_blank" class="link green dim underline" href="https://www.reuters.com/article/uk-factcheck-tiktok/fact-check-the-blacklivesmatter-hashtag-is-not-banned-on-tiktok-idUSKBN2360OT">reported</a> that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views. TikTok claimed that, rather than a deliberate attempt at blocking the hashtags, the problem was a glitch that also affected terms like #cat and #hello. Still, many users speculate that TikTok purposefully censored the phrases. Glitch or not, the issue has been resolved and when you search for those same terms on TikTok now, you should get a full view count.
+                  Users <a target="_blank" class="link green dim underline" href="https://www.reuters.com/article/uk-factcheck-tiktok/fact-check-the-blacklivesmatter-hashtag-is-not-banned-on-tiktok-idUSKBN2360OT">reported</a> that when they searched for the terms “blacklivesmatter” and “GeorgeFloyd,” there were 0 views — sparking speculation that TikTok had censored those phrases. TikTok responded with a statement that the problem had been a glitch that also affected terms like #cat and #hello. Still, glitch or not, the issue has been resolved, and when you search for those same terms on TikTok now, you should get a full view count.
                 </p>
               </div>
             </main>
@@ -126,6 +130,7 @@
                 class="disable-mouse db dn-ns"
                 data="images/shadowbans_SVG-mobile.svg"
                 type="image/svg+xml"
+                alt="Screenshot of TikTok search with the following annotations: Both #blacklivesmatter and #GeorgeFloyd appears to have zero views in the days following national outrage of George Floyd’s killing / Users tried modifying hashtags in an attempt to get their content viewed by others"
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -133,6 +138,7 @@
                 class="disable-mouse dn db-ns mw-500"
                 data="images/shadowbans_SVG-desktop.svg"
                 type="image/svg+xml"
+                alt="Screenshot of TikTok search with the following annotations: Both #blacklivesmatter and #GeorgeFloyd appears to have zero views in the days following national outrage of George Floyd’s killing / Users tried modifying hashtags in an attempt to get their content viewed by others"
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -160,6 +166,7 @@
                 class="disable-mouse db dn-ns"
                 data="images/tiktok-convos_SVG-desktop-mobile.svg"
                 type="image/svg+xml"
+                alt="Screenshot of Twitter video by user ewufortheloss depicting a woman stopping a worker from boarding up store windows in Santa Monica, California to pose for a photo with the following annotations: Pointing at how the she is holding the drill at a tilted angle: You really don’t want want to be holding the drill like that though… / Pointing at the shoes she is wearing: Would anyone really be wearing sandals like this while working with power tools?! / Pointing at worker who was stopped: Essential worker appears to also be posing, presumably to make her photo look more real / Sarcastically adding: #4daclout, #BLM, #communityservice"
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -167,6 +174,7 @@
                 class="disable-mouse dn db-ns mw-500"
                 data="images/fakeactivism_SVG-desktop.svg"
                 type="image/svg+xml"
+                alt="Screenshot of Twitter video by user ewufortheloss depicting a woman stopping a worker from boarding up store windows in Santa Monica, California to pose for a photo with the following annotations: Pointing at how the she is holding the drill at a tilted angle: You really don’t want want to be holding the drill like that though… / Pointing at the shoes she is wearing: Would anyone really be wearing sandals like this while working with power tools?! / Pointing at worker who was stopped: Essential worker appears to also be posing, presumably to make her photo look more real / Sarcastically adding: #4daclout, #BLM, #communityservice"
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -193,6 +201,7 @@
                 class="disable-mouse db dn-ns"
                 data="images/tiktok-convos_SVG-mobile.svg"
                 type="image/svg+xml"
+                alt="Screenshot of viral TikTok video from user Izabella Miletello depicting her distraught and crying face with the following annotations: Teens are expressing distress and anger after tough convos with their parents about race / Quote by Ariel Tang: It’s hard talking to family members about it because they just try to not get involved in politics. Because, you know, it’s the culture of assimilation. So, it’s been difficult, but I’m still working at it."
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -200,6 +209,7 @@
                 class="disable-mouse dn db-ns mw-500"
                 data="images/tiktok-convos_SVG-desktop.svg"
                 type="image/svg+xml"
+                alt="Screenshot of viral TikTok video from user Izabella Miletello depicting her distraught and crying face with the following annotations: Teens are expressing distress and anger after tough convos with their parents about race / Quote by Ariel Tang: It’s hard talking to family members about it because they just try to not get involved in politics. Because, you know, it’s the culture of assimilation. So, it’s been difficult, but I’m still working at it."
               >
                 <img src="yourfallback.jpg">
               </object>
@@ -229,7 +239,7 @@
                 Need to get some things off your chest? Talk openly to others about the Black Lives Matter movement and police brutality — whether it’s someone who agrees with you or someone who might not. If you're lucky, you might even change someone’s mind!
               </li>
               <li class="pv3 bb bt b--white-20">
-                Keep those Instagram posts and TikToks going — and don’t just post one thing to show your friends you’re not racist. Post on the subject over and over and over again, and pay attention to responses so you keep learning.
+                Each time you post, tune into what you want to accomplish and pay attention to responses, so you can keep learning about the best ways to be a part of positive change.
               </li>
             </ol>
             <p>
