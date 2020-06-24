@@ -9,7 +9,7 @@ export default {
   featureImage:
     'https://interactive.yr.media/doing-it-for-the-gram/social.jpg',
   featureImagePath: 'images/template-feature-image',
-  featureImageDescription: 'Woman looking at kiosk.',
+  featureImageDescription: 'People Protesting BLM',
   featureImageCaption: '(Photo: Andersen Ross Photography Inc/Getty Images)',
 
   wpPostSlug: 'north-carolina-vs-vaping-companies',

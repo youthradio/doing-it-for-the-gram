@@ -73,11 +73,16 @@ export default {
       },
       {
         rel: 'preload',
-        as: 'style',
+
         href: 'https://yr.media/statics/yr-media-typography/yr-typography.css',
-        onload: 'this.onload=null;this.rel="stylesheet"'
+        as: 'style',
+        onload: "this.onload=null;this.rel='stylesheet'"
       }
-    ]
+
+    ],
+    noscript:
+         [
+           { id: 'deferred-styles', innerHTML: '<link rel="stylesheet" type="text/css" href="https://yr.media/statics/yr-media-typography/yr-typography.css"/>', body: true }]
   },
   /*
    ** Customize the progress-bar color

@@ -173,10 +173,10 @@
               </h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
-                This is a tricky one.
+                  This is a tricky one.
                 </p>
                 <p>
-                <a target="_blank" class="dib link green dim underline" href="https://www.insider.com/tiktok-george-floyd-black-lives-matter-teens-parents-racist-views-2020-6">Izabella</a>, a 15-year-old girl in Louisiana, tried to talk to her parents about the killing of George Floyd and the importance of Black Lives Matter and was deeply upset by how they responded. “I literally hate my family so much,” she said on TikTok. Her video went viral, and more and more young people made similar posts, turning it into a trend.
+                  <a target="_blank" class="dib link green dim underline" href="https://www.insider.com/tiktok-george-floyd-black-lives-matter-teens-parents-racist-views-2020-6">Izabella</a>, a 15-year-old girl in Louisiana, tried to talk to her parents about the killing of George Floyd and the importance of Black Lives Matter and was deeply upset by how they responded. “I literally hate my family so much,” she said on TikTok. Her video went viral, and more and more young people made similar posts, turning it into a trend.
                 </p>
                 <p>
                   Those conversations can be powerful and go a long way to highlighting everyday racism, but remember — “allies” highlighting what’s hard about this moment for them personally — can do real damage. So if you’re an ally planning on posting something similar, ask yourself: Am I doing this for myself or for the movement? What am I hoping to achieve?
@@ -364,6 +364,7 @@ export default {
 
 <style lang="scss">
 @import "~@/assets/css/styles";
+
 @media screen and (min-width: 50em) {
   @import "~@/node_modules/swiper/swiper";
   .swiper-pagination {
