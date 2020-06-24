@@ -25,7 +25,7 @@
                 By Zoe Harwood
               </h4>
               <h4 class="assistant normal">
-                06.23.20
+                06.24.20
               </h4>
             </article>
           </div>

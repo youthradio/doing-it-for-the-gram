@@ -1,13 +1,13 @@
 export default {
   baseURL: '/doing-it-for-the-gram',
   title: 'Doing It For The ‘gram',
-  author: 'Static Author',
+  author: 'Zoe Harwood',
   publishDate: 'Oct. 2, 2019',
   location: 'Oakland, CA',
-  description: 'SEO friendly Description',
-  url: 'CANONICAL URL',
+  description: 'People have been showing their support for Black Lives Matter on TikTok, Twitter, and Instagram, but do social media posts help the movement?',
+  url: 'https://interactive.yr.media/doing-it-for-the-gram/',
   featureImage:
-    'https://interactive.yr.media/college-app-guide/images/college-guide-featurex1875.jpg',
+    'https://interactive.yr.media/doing-it-for-the-gram/social.jpg',
   featureImagePath: 'images/template-feature-image',
   featureImageDescription: 'Woman looking at kiosk.',
   featureImageCaption: '(Photo: Andersen Ross Photography Inc/Getty Images)',
