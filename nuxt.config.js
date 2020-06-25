@@ -84,12 +84,13 @@ export default {
     ],
     noscript: [
       {
-        id: 'deferred-styles',
         innerHTML:
-          '<link rel="stylesheet" type="text/css" href="https://yr.media/statics/yr-media-typography/yr-typography.css"/>',
+          '<link rel="stylesheet" type="text/css" href="https://yr.media/statics/yr-media-typography/yr-typography.css">',
         body: true
       }
-    ]
+    ],
+    __dangerouslyDisableSanitizers: ['noscript']
+
   },
   /*
    ** Customize the progress-bar color
