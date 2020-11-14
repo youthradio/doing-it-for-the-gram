@@ -3,7 +3,7 @@
 import { customFetcher } from './scripts/dataFetcher'
 const fs = require('fs-extra')
 
-export default function fetchData () {
+export default function fetchData() {
   // writeData writes the data to a file given the path
   // Same as in previous solution
   const writeData = (path, data) => {

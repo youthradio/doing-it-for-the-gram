@@ -62,7 +62,7 @@ marked.setOptions({
   xhtml: false
 })
 
-function markdown2html (data) {
+function markdown2html(data) {
   const copy = Object.assign(data, {})
   const interate = (obj) => {
     Object.keys(obj).forEach((key) => {
@@ -77,7 +77,16 @@ function markdown2html (data) {
         }
         if (key === 'text') {
           configDom = {
-            ALLOWED_TAGS: ['a', 'p', 'img', 'div', 'iframe', 'style', 'strong', 'i'],
+            ALLOWED_TAGS: [
+              'a',
+              'p',
+              'img',
+              'div',
+              'iframe',
+              'style',
+              'strong',
+              'i'
+            ],
             KEEP_CONTENT: true
           }
         }
@@ -93,7 +102,7 @@ function markdown2html (data) {
   return copy
 }
 
-export async function customFetcher () {
+export async function customFetcher() {
   let convertedData = null
   try {
     const goot = new Gootenberg()

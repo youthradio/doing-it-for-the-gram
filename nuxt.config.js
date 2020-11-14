@@ -4,8 +4,13 @@ dotenv.config()
 process.env.DEBUG = 'nuxt:*'
 
 export default {
+  target: 'static',
+  env: {
+    baseUrl: POSTCONFIG.baseURL || 'http://localhost:3000'
+  },
   mode: 'universal',
 
+  telemetry: false,
   /*
    ** Headers of the page
    */
@@ -90,7 +95,6 @@ export default {
       }
     ],
     __dangerouslyDisableSanitizers: ['noscript']
-
   },
   /*
    ** Customize the progress-bar color
@@ -136,7 +140,7 @@ export default {
     /*
      ** You can extend webpack config here
      */
-    extend (config, { isDev, isClient, loaders: { vue } }) {
+    extend(config, { isDev, isClient, loaders: { vue } }) {
       if (isClient) {
         vue.transformAssetUrls.img = ['data-src', 'src']
         vue.transformAssetUrls.source = ['data-srcset', 'srcset']
