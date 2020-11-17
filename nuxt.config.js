@@ -6,7 +6,7 @@ process.env.DEBUG = 'nuxt:*'
 export default {
   target: 'static',
   env: {
-    baseUrl: POSTCONFIG.baseURL || 'http://localhost:3000'
+    baseUrl: POSTCONFIG.baseURL || 'http://localhost:3000',
   },
   mode: 'universal',
 
@@ -15,12 +15,12 @@ export default {
    ** Headers of the page
    */
   router: {
-    base: POSTCONFIG.baseURL
+    base: POSTCONFIG.baseURL,
   },
   head: {
     title: POSTCONFIG.title,
     htmlAttrs: {
-      lang: 'en'
+      lang: 'en',
     },
     meta: [
       { charset: 'utf-8' },
@@ -28,7 +28,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: POSTCONFIG.description
+        content: POSTCONFIG.description,
       },
       { property: 'og:title', content: POSTCONFIG.title },
       { property: 'og:site_name', content: POSTCONFIG.title },
@@ -46,52 +46,52 @@ export default {
       { name: 'twitter:image', content: POSTCONFIG.featureImage },
       {
         name: 'twitter:image:alt',
-        content: POSTCONFIG.featureImageDescription
+        content: POSTCONFIG.featureImageDescription,
       },
       { itemprop: 'description', content: POSTCONFIG.description },
       { itemprop: 'image', content: POSTCONFIG.featureImage },
       { name: 'msapplication-TileColor', content: '#da532c' },
-      { name: 'theme-color', content: '#ffffff' }
+      { name: 'theme-color', content: '#ffffff' },
     ],
     link: [
       {
         rel: 'icon',
         type: 'apple-touch-icon',
         sizes: '180x180',
-        href: 'favicon/apple-touch-icon.png'
+        href: 'favicon/apple-touch-icon.png',
       },
       {
         rel: 'icon',
         type: 'image/png',
         sizes: '32x32',
-        href: 'favicon/favicon-32x32.png'
+        href: 'favicon/favicon-32x32.png',
       },
       {
         rel: 'icon',
         type: 'image/png',
         sizes: '16x16',
-        href: 'favicon/favicon-16x16.png'
+        href: 'favicon/favicon-16x16.png',
       },
       { rel: 'shortcut icon', href: 'favicon/favicon-32x32.png' },
       { rel: 'manifest', href: 'favicon/site.webmanifest' },
       {
         rel: 'mask-icon',
         color: '#5bbad5',
-        href: 'favicon/safari-pinned-tab.svg'
+        href: 'favicon/safari-pinned-tab.svg',
       },
       {
         rel: 'preload stylesheet',
         href:
           'https://interactive.yr.media/yr-media-typography/yr-typography.css',
-        as: 'style'
+        as: 'style',
       },
       {
         rel: 'preload stylesheet',
         href:
           'https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap',
-        as: 'style'
-      }
-    ]
+        as: 'style',
+      },
+    ],
   },
   /*
    ** Customize the progress-bar color
@@ -110,24 +110,24 @@ export default {
    */
   buildModules: [
     // Doc: https://github.com/nuxt-community/eslint-module
-    '@nuxtjs/eslint-module'
+    '@nuxtjs/eslint-module',
   ],
   /*
    ** Nuxt.js modules
    */
   modules: [
     // '~/modules/getdata',
-    '@nuxtjs/google-gtag'
+    '@nuxtjs/google-gtag',
   ],
   'google-gtag': {
     id: 'UA-6029148-3',
     config: {
       anonymize_ip: true, // anonymize IP
       page_title: POSTCONFIG.title,
-      page_path: POSTCONFIG.baseURL
+      page_path: POSTCONFIG.baseURL,
     },
     debug: false, // enable to track in dev mode
-    disableAutoPageTrack: true // disable if you don't want to track each page route with router.afterEach(...).
+    disableAutoPageTrack: true, // disable if you don't want to track each page route with router.afterEach(...).
   },
 
   /*
@@ -146,11 +146,11 @@ export default {
     postcss: {
       plugins: {
         cssnano: {
-          preset: ['default', { minifyFontValues: { removeQuotes: false } }]
-        }
-      }
-    }
-  }
+          preset: ['default', { minifyFontValues: { removeQuotes: false } }],
+        },
+      },
+    },
+  },
   // server: {
   //   https: {
   //     key: readFileSync(`${process.env.SSLKEY}`),

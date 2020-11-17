@@ -9,7 +9,7 @@
         <swiper-slide>
           <div
             class="flex items-center h-100 w-100 bg-dark-gray white cover"
-            style="background:url(featurex1125.jpg) no-repeat center;"
+            style="background: url(featurex1125.jpg) no-repeat center"
           >
             <article class="measure ml6-ns ph3">
               <h1 class="day-sans f1-ns f2 lh-title">
@@ -18,12 +18,8 @@
               <h3 class="roboto-mono fw3 f3-ns f4 lh-title">
                 Five Social Media Moves That Helped And Hurt #BlackLivesMatter
               </h3>
-              <h4 class="assistant normal">
-                By Zoe Harwood
-              </h4>
-              <h4 class="assistant normal">
-                06.24.20
-              </h4>
+              <h4 class="assistant normal">By Zoe Harwood</h4>
+              <h4 class="assistant normal">06.24.20</h4>
             </article>
           </div>
         </swiper-slide>
@@ -92,13 +88,14 @@
                 feed and searches / Quote by Victoria Balla: People are just
                 posting because it's a trend. They know that if they didn't
                 people would call them out for being a racist or for not
-                supporting the movement. So, a lot of it is not genuine.</object
-              >
+                supporting the movement. So, a lot of it is not genuine.
+              </object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/blackouttuesday_SVG-desktop.svg"
                 type="image/svg+xml"
-                >Black squares flooded Instagram on June 2nd / Vital information
+              >
+                Black squares flooded Instagram on June 2nd / Vital information
                 on protests got lost on users' feed and searches / Quotation by
                 Victoria Balla: People are just posting because it's a trend.
                 They know that if they didn't people would call them out for
@@ -167,30 +164,30 @@
                 class="disable-mouse db dn-ns"
                 data="images/whiteoutwednesday_SVG-mobile.svg"
                 type="image/svg+xml"
-                >Screenshot of Instagram feed shows K-pop content on
+              >
+                Screenshot of Instagram feed shows K-pop content on
                 #whiteoutwednesday with the following annotations: As of June
                 9th, Instagram counts 92,000+ posts under #whiteoutwednesday /
                 K-pop content was also flooding related hastags like
                 #whitelivesmatter, #copslivesmatter, #bluelivesmatter, and
                 #trump2020 / Quote by Ariel Tang: I think all sides of the
                 Internet coming together to try and contribute in some way is
-                kind of crazy. It shows solidarity which I think is really
-                cool.</object
-              >
+                kind of crazy. It shows solidarity which I think is really cool.
+              </object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/whiteoutwednesday_SVG-desktop.svg"
                 type="image/svg+xml"
-                >Screenshot of Instagram feed shows K-pop content on
+              >
+                Screenshot of Instagram feed shows K-pop content on
                 #whiteoutwednesday with the following annotations: As of June
                 9th, Instagram counts 92,000+ posts under #whiteoutwednesday /
                 K-pop content was also flooding related hastags like
                 #whitelivesmatter, #copslivesmatter, #bluelivesmatter, and
                 #trump2020 / Quote by Ariel Tang: I think all sides of the
                 Internet coming together to try and contribute in some way is
-                kind of crazy. It shows solidarity which I think is really
-                cool.</object
-              >
+                kind of crazy. It shows solidarity which I think is really cool.
+              </object>
             </div>
           </article>
         </swiper-slide>
@@ -230,22 +227,24 @@
                 class="disable-mouse db dn-ns"
                 data="images/shadowbans_SVG-mobile.svg"
                 type="image/svg+xml"
-                >Screenshot of TikTok search with the following annotations:
-                Both #blacklivesmatter and #GeorgeFloyd appears to have zero
-                views in the days following national outrage of George Floyd’s
-                killing / Users tried modifying hashtags in an attempt to get
-                their content viewed by others</object
               >
+                Screenshot of TikTok search with the following annotations: Both
+                #blacklivesmatter and #GeorgeFloyd appears to have zero views in
+                the days following national outrage of George Floyd’s killing /
+                Users tried modifying hashtags in an attempt to get their
+                content viewed by others
+              </object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/shadowbans_SVG-desktop.svg"
                 type="image/svg+xml"
-                >Screenshot of TikTok search with the following annotations:
-                Both #blacklivesmatter and #GeorgeFloyd appears to have zero
-                views in the days following national outrage of George Floyd’s
-                killing / Users tried modifying hashtags in an attempt to get
-                their content viewed by others</object
               >
+                Screenshot of TikTok search with the following annotations: Both
+                #blacklivesmatter and #GeorgeFloyd appears to have zero views in
+                the days following national outrage of George Floyd’s killing /
+                Users tried modifying hashtags in an attempt to get their
+                content viewed by others
+              </object>
             </div>
           </article>
         </swiper-slide>
@@ -254,9 +253,7 @@
             class="flex flex-column flex-row-ns w-100 justify-center items-center ph3"
           >
             <div class="flex-grow-0">
-              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
-                FAKE ACTIVISM
-              </h3>
+              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">FAKE ACTIVISM</h3>
               <div class="measure-narrow-ns measure lh-copy">
                 <p>
                   While a lot of people have been doing real work to bring about
@@ -289,7 +286,8 @@
                 class="disable-mouse db dn-ns"
                 data="images/fakeactivism-SVG-mobile.svg"
                 type="image/svg+xml"
-                >Screenshot of Twitter video by user ewufortheloss depicting a
+              >
+                Screenshot of Twitter video by user ewufortheloss depicting a
                 woman stopping a worker from boarding up store windows in Santa
                 Monica, California to pose for a photo with the following
                 annotations: Pointing at how the she is holding the drill at a
@@ -299,13 +297,14 @@
                 power tools?! / Pointing at worker who was stopped: Essential
                 worker appears to also be posing, presumably to make her photo
                 look more real / Sarcastically adding: #4daclout, #BLM,
-                #communityservice</object
-              >
+                #communityservice
+              </object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/fakeactivism_SVG-desktop.svg"
                 type="image/svg+xml"
-                >Screenshot of Twitter video by user ewufortheloss depicting a
+              >
+                Screenshot of Twitter video by user ewufortheloss depicting a
                 woman stopping a worker from boarding up store windows in Santa
                 Monica, California to pose for a photo with the following
                 annotations: Pointing at how the she is holding the drill at a
@@ -315,8 +314,8 @@
                 power tools?! / Pointing at worker who was stopped: Essential
                 worker appears to also be posing, presumably to make her photo
                 look more real / Sarcastically adding: #4daclout, #BLM,
-                #communityservice</object
-              >
+                #communityservice
+              </object>
             </div>
           </article>
         </swiper-slide>
@@ -325,13 +324,9 @@
             class="flex flex-column flex-row-ns w-100 justify-center items-center ph3"
           >
             <div class="flex-grow-0">
-              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
-                TALKING TIKTOK
-              </h3>
+              <h3 class="roboto-mono fw6 f3-ns f4 lh-title">TALKING TIKTOK</h3>
               <div class="measure-narrow-ns measure lh-copy">
-                <p>
-                  This is a tricky one.
-                </p>
+                <p>This is a tricky one.</p>
                 <p>
                   <a
                     target="_blank"
@@ -361,28 +356,30 @@
                 class="disable-mouse db dn-ns"
                 data="images/tiktok-convos_SVG-mobile.svg"
                 type="image/svg+xml"
-                >Screenshot of viral TikTok video from user Izabella Miletello
+              >
+                Screenshot of viral TikTok video from user Izabella Miletello
                 depicting her distraught and crying face with the following
                 annotations: Teens are expressing distress and anger after tough
                 convos with their parents about race / Quote by Ariel Tang: It’s
                 hard talking to family members about it because they just try to
                 not get involved in politics. Because, you know, it’s the
                 culture of assimilation. So, it’s been difficult, but I’m still
-                working at it.</object
-              >
+                working at it.
+              </object>
               <object
                 class="disable-mouse dn db-ns mw-500"
                 data="images/tiktok-convos_SVG-desktop.svg"
                 type="image/svg+xml"
-                >Screenshot of viral TikTok video from user Izabella Miletello
+              >
+                Screenshot of viral TikTok video from user Izabella Miletello
                 depicting her distraught and crying face with the following
                 annotations: Teens are expressing distress and anger after tough
                 convos with their parents about race / Quote by Ariel Tang: It’s
                 hard talking to family members about it because they just try to
                 not get involved in politics. Because, you know, it’s the
                 culture of assimilation. So, it’s been difficult, but I’m still
-                working at it.</object
-              >
+                working at it.
+              </object>
             </div>
           </article>
         </swiper-slide>
@@ -447,49 +444,29 @@
         </swiper-slide>
         <swiper-slide>
           <article class="ph3">
-            <h3 class="roboto-mono fw6 f3-ns f4 lh-title">
-              CREDITS
-            </h3>
+            <h3 class="roboto-mono fw6 f3-ns f4 lh-title">CREDITS</h3>
             <dl class="f6 lh-title mv2">
-              <dt class="dib b green">
-                Writer
-              </dt>
-              <dd class="dib ml0">
-                Zoe Harwood
-              </dd>
+              <dt class="dib b green">Writer</dt>
+              <dd class="dib ml0">Zoe Harwood</dd>
             </dl>
             <dl class="f6 lh-title mv2">
-              <dt class="dib b green">
-                Editors
-              </dt>
-              <dd class="dib ml0">
-                Marjerrie Masicat, Lissa Soep
-              </dd>
+              <dt class="dib b green">Editors</dt>
+              <dd class="dib ml0">Marjerrie Masicat, Lissa Soep</dd>
             </dl>
             <dl class="f6 lh-title mv2">
-              <dt class="dib b green">
-                Producers
-              </dt>
+              <dt class="dib b green">Producers</dt>
               <dd class="dib ml0">
                 Victoria Balla, Zoe Harwood, Dante Ruberto, Ariel Tang, Nimah
                 Gobir, Devin Glover
               </dd>
             </dl>
             <dl class="f6 lh-title mv2">
-              <dt class="dib b green">
-                Designer
-              </dt>
-              <dd class="dib ml0">
-                Marjerrie Masicat
-              </dd>
+              <dt class="dib b green">Designer</dt>
+              <dd class="dib ml0">Marjerrie Masicat</dd>
             </dl>
             <dl class="f6 lh-title mv2">
-              <dt class="dib b green">
-                Developer
-              </dt>
-              <dd class="dib ml0">
-                Radamés Ajna
-              </dd>
+              <dt class="dib b green">Developer</dt>
+              <dd class="dib ml0">Radamés Ajna</dd>
             </dl>
           </article>
         </swiper-slide>
@@ -519,17 +496,17 @@ export default {
   components: {
     MenuHeader,
     ShareContainer,
-    SwiperSlide
+    SwiperSlide,
   },
   mixins: [CommonUtils],
   asyncData(ctx) {
     return {
-      postData: POSTCONFIG
+      postData: POSTCONFIG,
     }
   },
   data() {
     return {
-      swiper: null
+      swiper: null,
     }
   },
   computed: {},
@@ -545,12 +522,12 @@ export default {
           loop: false,
           keyboard: {
             enabled: true,
-            onlyInViewport: false
+            onlyInViewport: false,
           },
           mousewheel: {
             eventsTarget: document.body,
             sensitivity: 1,
-            releaseOnEdges: true
+            releaseOnEdges: true,
           },
           direction: 'vertical',
 
@@ -559,14 +536,14 @@ export default {
             clickable: true,
             renderBullet(index, className) {
               return `<span class="${className}"></span>`
-            }
-          }
+            },
+          },
         })
       } else {
         this.swiper = null
       }
-    }
-  }
+    },
+  },
 }
 </script>
 

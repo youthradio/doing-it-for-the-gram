@@ -59,7 +59,7 @@ marked.setOptions({
   silent: false,
   smartLists: false,
   smartypants: false,
-  xhtml: false
+  xhtml: false,
 })
 
 function markdown2html(data) {
@@ -73,7 +73,7 @@ function markdown2html(data) {
       if (typeof obj[key] === 'string' || obj[key] instanceof String) {
         let configDom = {
           ALLOWED_TAGS: ['a'],
-          KEEP_CONTENT: true
+          KEEP_CONTENT: true,
         }
         if (key === 'text') {
           configDom = {
@@ -85,9 +85,9 @@ function markdown2html(data) {
               'iframe',
               'style',
               'strong',
-              'i'
+              'i',
             ],
-            KEEP_CONTENT: true
+            KEEP_CONTENT: true,
           }
         }
         obj[key] = DOMPurify.sanitize(marked(obj[key]), configDom).trim()

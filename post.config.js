@@ -17,5 +17,5 @@ export default {
   wpPostID: '60986',
   // you might not need to change
   fbAppID: '73080818131',
-  twitterHandler: '@itsyrmedia'
+  twitterHandler: '@itsyrmedia',
 }
